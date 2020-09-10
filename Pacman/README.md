@@ -1,6 +1,6 @@
 # SamLiuProjects
 
-Hey wonderful person, this is my Pacman project. Note that if you want the code to run, you'll have to install pickle (for the high scores page) and simpleaudio (for the sound).
+Hey wonderful person, this is my Pacman project. Note that for the code to run, you'll have to install pickle (for the high scores page) and simpleaudio (for the sound). If you have a Python IDE (Ex. Pycharm), you may be able to drag the downloaded folder into your IDE. If not, using any other text editor should be fine.
 
 If you don't have simpleaudio, the following link may be helpful: 
 https://pypi.org/project/simpleaudio/
